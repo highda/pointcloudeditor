@@ -37,7 +37,7 @@ Ensure you have a modern web browser that supports WebGL (e.g., Chrome, Firefox,
 ### Setup
 1. Clone the repository:
     ```bash
-    git clone https://github.com/JohannesKrueger/point-cloud-editor.git
+    git clone https://github.com/JohannesKrueger/pointcloudeditor.git
     cd point-cloud-editor
     ```
 
